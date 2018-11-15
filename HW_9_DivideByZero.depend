@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1541772355 source:c:\my files\classes\(18c) fall semester 2018\computer programming\module 9 (this week!)\hw_9_dividebyzero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ErrorChecks.h"
+
+1541772591 c:\my files\classes\(18c) fall semester 2018\computer programming\module 9 (this week!)\hw_9_dividebyzero\errorchecks.h
+
+1541772356 source:d:\computer programming\hw_9_dividebyzero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ErrorChecks.h"
+
+1542320924 d:\computer programming\hw_9_dividebyzero\errorchecks.h
+
